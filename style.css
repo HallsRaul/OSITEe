@@ -1,0 +1,26 @@
+header {
+    height: 200px;
+    background-color: blueviolet;
+}
+
+main {
+    background-color: yellow;
+    height: 200px;
+}
+aside {
+    background-color: goldenrod;
+    height: 200px;
+}
+
+footer {    
+    height: auto;  
+    background-color: yellowgreen;
+} 
+main section {
+    height:50px;
+    background-color: brown;
+}
+aside section{
+    height: 50px;
+
+}
