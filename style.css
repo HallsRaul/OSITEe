@@ -1,26 +1,38 @@
+
 header {
     height: 200px;
-    background-color: blueviolet;
+    background-color: rgb(78, 78, 93);
 }
 
 main {
-    background-color: yellow;
-    height: 200px;
+    background-color: rgb(36, 36, 35);
+    height: 650px;
 }
 aside {
-    background-color: goldenrod;
-    height: 200px;
+    background-color: rgb(44, 44, 42);
+    height: 650px;
 }
 
-footer {    
+footer {   
     height: auto;  
-    background-color: yellowgreen;
+    background-color: rgb(36, 36, 35);
 } 
 main section {
     height:50px;
-    background-color: brown;
 }
+
 aside section{
     height: 50px;
 
+}
+main img {
+    margin-top: 20px;
+    max-height: 200px;
+}
+ol {
+    list-style-type: circle;
+}
+h3 {
+    margin-top: 50px;
+    color: 
 }
