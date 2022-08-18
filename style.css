@@ -46,3 +46,15 @@ body {
     width: 100%;
     background-color: rgb(36, 36, 35);
 }
+header h5 {
+    color: rgb(0, 0, 0);
+}
+header p {
+    color: rgb(0, 0, 0);
+}
+h6 {
+    color: white;
+}
+#p2 {
+    color:white;
+}
